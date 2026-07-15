@@ -13,6 +13,8 @@ The local snapshot includes the source for the production data path, but it does
 - a continuously running ingestion schedule; or
 - a guarantee that third-party feeds available to the live system will be reachable from another computer.
 
+The local repository also contains the fellowship-stage correction to the ledger's wording: it shows the public evidence basis and recorded authority action rather than an administrator's “next action.” This small local change may be ahead of the currently deployed ledger page and is preserved as its own Git commit.
+
 ## Live deployment
 
 The public interface is hosted at:
