@@ -4,15 +4,13 @@
 
 This repository records a curated local-project snapshot made on **15 July 2026**. Its first commit preserves the exact files included at that point and allows a reviewer to inspect subsequent changes through normal Git history.
 
-The committed material includes earlier project files whose contents and local filesystem metadata document a development sequence, including:
+The committed material includes project files and evidence that document a development sequence, including:
 
-- `docs/PROJECT.md` — original concept file dated 13 July 2026;
-- `docs/PLAN-REVIEW.md` — methodological review dated 13 July 2026;
-- `docs/rants.md` — dated development diary covering 13–14 July 2026;
+- `rants.md` — dated development diary covering major design, data and deployment changes;
 - application, tests and data-ingestion source developed across 13–14 July 2026;
 - visual QA evidence captured on 14 July 2026;
-- `docs/fellowship.md` — fellowship dossier prepared on 14 July 2026; and
-- the completed report and local-repository packaging prepared on 15 July 2026.
+- the completed illustrated report; and
+- the public-repository packaging prepared on 15 July 2026.
 
 ## What it does not establish
 

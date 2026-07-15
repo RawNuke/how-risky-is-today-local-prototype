@@ -85,13 +85,13 @@ Eventually, my goal is to deepen my technical skills by learning how to code, so
 
 ---
 
-## Reviewer Guide to This Repository
+## Repository Guide
 
 > **Authorship note:** Sections 1–5 above reproduce the project report body supplied by Raunaq Sharma, reformatted for Markdown and with its existing footnote links preserved. The repository guidance below, implementation, QA evidence, and illustrated appendices were prepared with AI assistance. See [AUTHORSHIP_AND_AI_ASSISTANCE.md](AUTHORSHIP_AND_AI_ASSISTANCE.md) for the detailed allocation.
 
 ![Current desktop interface of How Risky is Today](evidence/current-interface/desktop-final.png)
 
-This private repository is a self-contained local snapshot of **How Risky Is Today?** It allows a fellowship reviewer to inspect the policy idea, run the public interface locally, follow the methodological development trail, and examine selected quality-assurance evidence.
+This public repository is a self-contained local snapshot of **How Risky Is Today?** It allows visitors to inspect the policy idea, run the interface locally, follow the development trail, and examine selected quality-assurance evidence.
 
 ### Local repository versus live system
 
@@ -125,11 +125,8 @@ Node.js 24 LTS is recommended. The repository includes `.nvmrc`.
 
 ### What to inspect
 
-- `report/` — the complete illustrated fellowship project report.
-- `docs/PROJECT.md` — the original policy concept and early architecture.
-- `docs/PLAN-REVIEW.md` — the evidence and measurement review that narrowed unsupported claims.
-- `docs/fellowship.md` — the fellowship-oriented project dossier.
-- `docs/rants.md` — a dated development diary recording major design and implementation changes.
+- `report/` — the complete illustrated project report.
+- `rants.md` — the agents’ office rant board: a dated, mildly exasperated development diary.
 - `webapp/` — the runnable application, tests, migrations, and ingestion-function source.
 - `evidence/current-interface/` — desktop, mobile, and event-interaction captures.
 - `evidence/development/` — concept-to-implementation comparison, a recorded QA correction, and an ingestion audit.
