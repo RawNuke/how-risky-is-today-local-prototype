@@ -1,0 +1,9 @@
+project_id = "rdozlnyhkylsintakxgw"
+
+[functions.refresh-environment]
+verify_jwt = false
+import_map = "./functions/import_map.json"
+
+[functions.refresh-risk]
+verify_jwt = false
+import_map = "./functions/import_map.json"

@@ -1,0 +1,21 @@
+# Dependencies and builds
+webapp/node_modules/
+webapp/.next/
+webapp/.netlify/
+webapp/out/
+webapp/supabase/.temp/
+
+# Secrets and local configuration
+webapp/.env
+webapp/.env.local
+webapp/.env.*.local
+!webapp/.env.example
+
+# Operating-system and editor files
+.DS_Store
+*.swp
+*.tmp
+
+# Logs
+*.log
+npm-debug.log*
